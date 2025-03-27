@@ -1,0 +1,3 @@
+[submodule "LunaOrbitMQTT"]
+	path = LunaOrbitMQTT
+	url = https://github.com/LunaDeerTech/LunaOrbitMQTT.git
